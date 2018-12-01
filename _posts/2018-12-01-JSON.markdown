@@ -39,7 +39,7 @@
       "name": "zs",
       "age": 19,
       "sex": "女",
-      "gender": true;
+      "gender": true,
       "_friend": null
   }
   ```
