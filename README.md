@@ -1,6 +1,6 @@
 # BU - KaiXiu
 
-[BU KaiXiu](https://github.com/BuKaixiu/bukaixiu.github.io) is a theme for [BU KaiXiu](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
+This is a theme for [JEkll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
 ## Live Demo
 
