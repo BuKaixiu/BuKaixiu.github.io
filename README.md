@@ -1,6 +1,6 @@
-# Vno - Jekyll
+# BU - KaiXiu
 
-[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
+[BU KaiXiu](https://github.com/BuKaixiu/bukaixiu.github.io) is a theme for [BU KaiXiu](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
 ## Live Demo
 
