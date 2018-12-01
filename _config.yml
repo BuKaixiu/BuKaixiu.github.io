@@ -1,5 +1,5 @@
 # Basic
-title: BU KaiXiu
+title: KaiXiu
 subtitle: 这是我第一个的博客
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: 这是一个新的世界.
@@ -17,12 +17,13 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 项目, description: My Projects, url: ''}
+    # http://project.onevcat.com
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
